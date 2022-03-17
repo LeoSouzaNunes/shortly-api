@@ -17,4 +17,4 @@ CREATE TABLE urls(
 	"shortUrl" text NOT NULL UNIQUE,
 	url text NOT NULL,
 	"visitCount" integer NOT NULL
-)
+);
